@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(109, 73, 8);
+}
+
+header{
+    background-color: brown;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    margin: 0px 350px;
+}
+
+.nav{
+    background-color: brown;
+    margin: 20px 0px 0px 0px;
+    padding: 20px 572px;
+    display:inline-block;
+
+}
+
+nav ul {
+    list-style-type: none;
+    display: inline-block;
+   
+}
+
+
+nav ul li{
+    margin-right: 22px;
+    text-align: center; 
+    color: white;
+    display:inline-block;
+}
+
+.box{
+    width: 1100px;
+    height: 700px;
+    background-color: white;
+    margin: 15px 0px 0px 260px;
+   display: inline-block;
+   
+}
+
+h1{
+    text-align: center;
+   color:rgb(109, 73, 8) ;
+   margin-top: 40px;
+
+}
+
+.same{
+    width: 250px;
+    height:250px;
+    background-color: rgb(109, 73, 8);
+    display: inline-block;
+    margin:50px 55px 0px 55px;
+}
+
+.para{
+    text-align: center;
+   margin-top: 100px;
+   font-size: x-large;
+    
+}
+
+hr{
+    margin: 50px 50px 0px 50px ;
+    border: 1px dashed red ;
+}
+
+h2{
+    margin-left: 40px;
+    margin-top: 30px;
+    color: rgb(109, 73, 8);
+}
+
+.lorem{
+    margin-left: 50px;
+    margin-right: 50px;
+}
